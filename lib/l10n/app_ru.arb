@@ -1,0 +1,21 @@
+{
+                    "language" : "Русский",
+                    "app_bar_name" : "The Film",
+                    "title" : "Название:",
+                    "year" : "Год:",
+                    "runtime" : "Продолжительность:",
+                    "director" : "Режисер:",
+                    "genre" : "Жанр:",
+                    "released" : "Премьера:",
+                    "writer" : "Сценаристы:",
+                    "actors" : "Актеры:",
+                    "country" : "Страна:",
+                    "awards" : "Награды:",
+                    "rating" : "IMBD: ",
+                    "plot" : "Сюжет",
+                    "textFieldHintText" : "Какой фильм будем искать",
+                    "errorButtonText" : "Повторить попытку",
+                    "noInternet" : "Нет подключения к интернету",
+                    "floatingButtonText" : "Избранное",
+                    "noFilmsInFavorites" : "У вас нет избранных фильмов"
+}

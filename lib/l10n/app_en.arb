@@ -1,0 +1,21 @@
+{
+          "language" : "English",
+          "app_bar_name" : "The Film",
+          "title" : "Title: ",
+          "year" : "Year: ",
+          "runtime" : "Runtime: ",
+          "director" : "Director: ",
+          "genre" : "Genre: ",
+          "released" : "Released: ",
+          "writer" : "Writers: ",
+          "actors" : "Actors: ",
+          "country" : "Country: ",
+          "awards" : "Awards: ",
+          "rating" : "Rating IMBD: ",
+          "plot" : "Plot",
+          "textFieldHintText" : "What movie do you want to see?",
+          "errorButtonText" : "Try again",
+          "noInternet" : "No internet connection",
+          "floatingButtonText" : "Favorites",
+          "noFilmsInFavorites" : "No films in favorites"
+}
